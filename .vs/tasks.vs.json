@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-DbJsonReader",
+      "appliesTo": "App_Code/DbJsonReader.cs",
+      "type": "launch"
+    }
+  ]
+}
